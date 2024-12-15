@@ -54,5 +54,7 @@
     }
   ],
   "footerSocials": {},
-  "search": false
+  "search": {
+    "enabled": false
+  }
 }
