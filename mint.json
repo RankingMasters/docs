@@ -56,5 +56,10 @@
   "footerSocials": {},
   "search": {
     "enabled": false
+  },
+  "custom": {
+    "css": [
+      "custom.css"
+    ]
   }
 }
