@@ -32,22 +32,12 @@
     }
   ],
   "anchors": [
-    {
-      "name": "Documentation",
-      "icon": "book-open-cover",
-      "url": "https://aicro.app/docs"
-    },
-    {
-      "name": "Community",
-      "icon": "slack",
-      "url": "https://aicro.app/community"
-    },
-    {
-      "name": "Blog",
-      "icon": "newspaper",
-      "url": "https://aicro.app/blog"
-    }
-  ],
+  {
+    "name": "Improve your CRO today",
+    "icon": "rocket",
+    "url": "https://aicro.app"
+  }
+],
   "navigation": [
     {
       "group": "Get Started",
