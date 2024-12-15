@@ -73,9 +73,8 @@
       ]
     }
   ],
-  "footerSocials": {
-    "x": "https://x.com/aicro",
-    "github": "https://github.com/aicro",
-    "linkedin": "https://linkedin.com/company/aicro"
-  }
+{
+  "footerSocials": {}
+}
+
 }
