@@ -32,12 +32,12 @@
     }
   ],
   "anchors": [
-  {
-    "name": "Improve your CRO today",
-    "icon": "rocket",
-    "url": "https://aicro.app"
-  }
-],
+    {
+      "name": "Improve your CRO today",
+      "icon": "rocket",
+      "url": "https://aicro.app"
+    }
+  ],
   "navigation": [
     {
       "group": "Get Started",
@@ -73,6 +73,5 @@
       ]
     }
   ],
-{
   "footerSocials": {}
 }
