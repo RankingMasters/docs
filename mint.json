@@ -18,7 +18,7 @@
   "topbarLinks": [
     {
       "name": "Support",
-      "url": "mailto:support@aicro.io"
+      "url": "mailto:info@aicro.io"
     }
   ],
   "topbarCtaButton": {
@@ -34,7 +34,7 @@
   "anchors": [
     {
       "name": "Optimise smarter. Convert better.",
-      "icon": "gauge",
+      "icon": "gauge-simple-max",
       "url": "https://aicro.io"
     }
   ],
@@ -57,9 +57,4 @@
   "search": {
     "enabled": false
   },
-  "custom": {
-    "css": [
-      "custom.css"
-    ]
-  }
 }
