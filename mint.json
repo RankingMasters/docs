@@ -42,7 +42,6 @@
     {
       "group": "Get Started",
       "pages": [
-        "get-started/",
         "get-started/"
       ]
     },
@@ -53,8 +52,8 @@
       ]
     }
   ],
-  "footerSocials": {},
-  "search": {
-    "enabled": false
-  },
+  "footerSocials": {
+    "twitter": "https://twitter.com/aicro",
+    "linkedin": "https://linkedin.com/company/aicro"
+  }
 }
