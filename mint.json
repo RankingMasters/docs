@@ -42,14 +42,14 @@
     {
       "group": "Get Started",
       "pages": [
-        "",
-        ""
+        "get-started/",
+        "get-started/"
       ]
     },
     {
       "group": "Grow tips",
       "pages": [
-        ""
+        "grow-tips/"
       ]
     }
   ],
