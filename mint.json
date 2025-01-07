@@ -1,6 +1,6 @@
 {
-  "$schema": "https://aicro.app/schema.json",
-  "name": "AICRO Starter Kit",
+  "$schema": "https://aicro.io/schema.json",
+  "name": "AICRO",
   "logo": {
     "dark": "/logo/dark.svg",
     "light": "/logo/light.svg"
@@ -18,12 +18,12 @@
   "topbarLinks": [
     {
       "name": "Support",
-      "url": "mailto:support@aicro.app"
+      "url": "mailto:support@aicro.io"
     }
   ],
   "topbarCtaButton": {
     "name": "Dashboard",
-    "url": "https://dashboard.aicro.app"
+    "url": "https://dashboard.aicro.io"
   },
   "tabs": [
     {
@@ -33,17 +33,17 @@
   ],
   "anchors": [
     {
-      "name": "Improve your CRO today",
-      "icon": "rocket",
-      "url": "https://aicro.app"
+      "name": "Optimise smarter. Convert better.",
+      "icon": "gauge",
+      "url": "https://aicro.io"
     }
   ],
   "navigation": [
     {
       "group": "Get Started",
       "pages": [
-        "get-started/introduction",
-        "get-started/quickstart"
+       // "get-started/introduction",
+       // "get-started/quickstart"
       ]
     },
     {
