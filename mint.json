@@ -42,13 +42,13 @@
     {
       "group": "Get Started",
       "pages": [
-        "get-started/"
+        "get-started/test"
       ]
     },
     {
       "group": "Grow tips",
       "pages": [
-        "grow-tips/"
+        "grow-tips/test"
       ]
     }
   ],
